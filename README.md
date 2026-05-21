@@ -4,5 +4,5 @@ Hi, I'm a Systems Administrator and Full-Stack Developer with a passion for clou
 
 - **Notable Project:** [EquipQR](https://equipqr.app) — An innovative asset management tool.
 - **Website:** [columbiacloudworks.com](https://columbiacloudworks.com)
-- **Motto:** Small Shop. Big Cloud.
+- **Motto:** Small Shop. Big Data.
 - **Hot Take:** 🔥 I actually really love [Starfield](https://bethesda.net/en/game/starfield) and have [thousands of hours](https://steamcommunity.com/profiles/76561198017340213/recommended/1716740/) in it.
