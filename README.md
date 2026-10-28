@@ -1,6 +1,6 @@
 **About Me**
 
-Hi, I'm a Systems Administrator and Full-Stack Developer with a passion for cloud architecture, server administration, and scripting. As a one-person operation at Columbia Cloudworks LLC, I specialize in delivering robust solutions for small businesses, leveraging big cloud technologies to empower every project.
+Hi, I'm an aspiring Site Reliability Engineer, Systems Administrator, and Full-Stack Developer with a passion for cloud architecture, server administration, and scripting. As a one-person operation at Columbia Cloudworks LLC, I specialize in delivering robust solutions for small businesses, leveraging big cloud technologies to empower every project.
 
 - **Notable Project:** [EquipQR](https://equipqr.app) — An innovative asset management tool.
 - **Website:** [columbiacloudworks.com](https://columbiacloudworks.com)
